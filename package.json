@@ -1,0 +1,19 @@
+{
+  "name": "my-boiler-plate",
+  "version": "1.0.0",
+  "description": "keshab's backend boiler plate",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-async-handler": "^1.2.0",
+    "joi": "^17.13.3",
+    "mongoose": "^8.13.2"
+  }
+}
