@@ -41,6 +41,7 @@ npm install
 ```
 
 If needed:
+
 ```bash
 npm i express
 ```
@@ -89,23 +90,23 @@ npm start
 
 ## 📂 Folder Descriptions
 
-| Folder                | Description |
-|-----------------------|-------------|
-| `src/`                | Root folder containing all subfolders |
-| `connectToMongoDb/`   | MongoDB connection function |
-| `const/`              | Constant values and config |
-| `controller/`         | Business logic and handlers |
-| `middleware/`         | Reusable middleware functions |
-| `model/`              | Mongoose data models |
-| `route/`              | All application routes |
-| `schema/`             | Schema design for Mongoose |
-| `validation/`         | Joi validation logic |
+| Folder              | Description                           |
+| ------------------- | ------------------------------------- |
+| `src/`              | Root folder containing all subfolders |
+| `connectToMongoDb/` | MongoDB connection function           |
+| `const/`            | Constant values and config            |
+| `controller/`       | Business logic and handlers           |
+| `middleware/`       | Reusable middleware functions         |
+| `model/`            | Mongoose data models                  |
+| `route/`            | All application routes                |
+| `schema/`           | Schema design for Mongoose            |
+| `validation/`       | Joi validation logic                  |
 
 ---
 
 ## 🙋‍♂️ Author
 
-- **Keshab Aryal** – [@keshab-aryal5](https://github.com/keshab-aryal5)
+- **Keshab Aryal** – [@thekeshabaryal5](https://github.com/thekeshabaryal5)
 
 ---
 
